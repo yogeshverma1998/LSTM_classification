@@ -9,6 +9,6 @@ The data is split into two folders, ATLAS-like (LHC) and STAR-like (RHIC). Each 
 
 # Neural Nets
 2class_conventional.ipynb == rapidity gap dense net for bg/sig classification\
-2class_LSTM.ipynb == var length LSTM net for bg/sig classification\
+2class_LSTM_var.ipynb == var length LSTM net for bg/sig classification\
 3class_conventional.ipynb == rapidity gap dense net for ND/SD/DD classification\
-3class_LSTM.ipynb == var length LSTM net for ND/SD/DD classification\
+3class_LSTM_var.ipynb == var length LSTM net for ND/SD/DD classification\
